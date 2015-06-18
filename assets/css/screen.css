@@ -515,6 +515,21 @@ body.nav-opened .site-wrapper {
     width: 80%;
 }
 
+.main-header .projects {
+  width: 70%;
+  margin: 1.4rem auto 0 auto;
+  position: relative;
+  text-align:center;
+}
+
+.projects-item {
+  width: 72px;
+  height: 72px;
+  text-align: center;
+  display:inline-block;
+  vertical-align: bottom;
+}
+
 .main-nav {
     position: relative;
     padding: 35px 40px;
