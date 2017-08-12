@@ -327,16 +327,12 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 
 .rss-button {
     opacity: 0.8;
+    color: white;
 }
 
 .rss-button:hover {
+    text-decoration: none;
     opacity: 1;
-}
-
-.rss-button svg {
-    height: 2.1rem;
-    margin-bottom: 1px;
-    fill: #fff;
 }
 
 @media (max-width: 700px) {
