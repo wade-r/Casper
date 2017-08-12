@@ -250,6 +250,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     padding: 10px 12px;
     color: #fff;
     opacity: 0.8;
+    font-size: 14px;
 }
 
 .nav li a:hover {
@@ -328,6 +329,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 .rss-button {
     opacity: 0.8;
     color: white;
+    font-size: 14px;
 }
 
 .rss-button:hover {
